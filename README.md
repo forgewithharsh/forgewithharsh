@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=github,vscode,postman,notion,googlecloud&theme=dark" />
 </p>
 
-### <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="22px" align="top" /> &nbsp; Philosophy
+### 🔥 Philosophy
 
 **Strong fundamentals over shortcuts.  
 Clarity over complexity.  
