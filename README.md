@@ -3,8 +3,6 @@
   <br><br>
 <p/>
 
----
-
 <div align="center">
 
 <a href="https://x.com/forgewithharsh">
@@ -28,8 +26,6 @@
   ⭐ If my repository is helpful for you then Nominate me for <b>GitHub Star</b>.
 </p>
 
----
-
 ### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"> Hi there, I'm Harsh Guleria
 
 - Computer Science Student.
@@ -42,23 +38,17 @@
 
 <br/>
 
----
-
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="22px" align="top"/> &nbsp; **Tech Stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,mongodb,vite,python,git&theme=dark" />
 </p>
 
----
-
 <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="22px" align="top"/> &nbsp; **Tools**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,postman,notion,googlecloud&theme=dark" />
 </p>
-
----
 
 ### <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="22px" align="top" /> &nbsp; Philosophy
 
