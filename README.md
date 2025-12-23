@@ -47,7 +47,7 @@
 <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="22px" align="top"/> &nbsp; **Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,postman,notion,googlecloud&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,obsidian,googlecloud&theme=dark" />
 </p>
 
 ### 🔥 Philosophy
