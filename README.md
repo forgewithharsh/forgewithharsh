@@ -47,7 +47,8 @@
 <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="22px" align="top"/> &nbsp; **Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,postman,obsidian,googlecolab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,obsidian&theme=dark" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48"/>
 </p>
 
 ### 🔥 Philosophy
