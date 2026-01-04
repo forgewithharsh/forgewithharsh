@@ -41,13 +41,14 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="22px" align="top"/> &nbsp; **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,mongodb,vite,python,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,python,vite,git&theme=dark" />
 </p>
 
 <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="22px" align="top"/> &nbsp; **Tools**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,postman,obsidian&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter"/>
   <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" width="48" height="48"/>
 </p>
 
