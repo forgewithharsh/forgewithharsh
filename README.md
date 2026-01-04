@@ -48,7 +48,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,postman,obsidian&theme=dark" />
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48"/>
+  <img 
+  src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg"
+  width="32"
+  style="background:#1f2937; padding:8px; border-radius:12px;"
+/>
 </p>
 
 ### 🔥 Philosophy
@@ -56,12 +60,3 @@
 **Strong fundamentals over shortcuts.  
 Clarity over complexity.  
 Consistency over motivation.**
-
-
-
-
-
-
-
-
-
