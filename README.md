@@ -48,11 +48,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,postman,obsidian&theme=dark" />
-  <img 
-  src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg"
-  width="32"
-  style="background:#1f2937; padding:8px; border-radius:12px;"
-/>
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" style="background: #1a1a1a; padding: 8px; border-radius: 8px;"/>
 </p>
 
 ### 🔥 Philosophy
