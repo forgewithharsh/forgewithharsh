@@ -23,7 +23,7 @@
 <br/>
 
 <p align="center">
-  ⭐ If my repository is helpful for you then Nominate me for <b>GitHub Star</b>.
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWFkNTBna215cXM1ZnFueWdpYW1sYmE0aDZxcW9vcnRpNnJzOXhqcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cNZqrH5IzOG0xrlWks/giphy.gif" width="24px" align="top"/> If my repository is helpful for you then Nominate me for <b>GitHub Star</b>.
 </p>
 
 ### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"> Hi there, I'm Harsh Guleria
@@ -52,7 +52,7 @@
   <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" width="48" height="48"/>
 </p>
 
-### 🔥 Philosophy
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBkZWJtdnZnaGt1cnBscWp6N24yNWpjbWloamp4d3kxcHhkdmhsZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LlngFXftGiC6Ha4Wit/giphy.gif" width="22px" align="top"/> Philosophy
 
 **Strong fundamentals over shortcuts.  
 Clarity over complexity.  
