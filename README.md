@@ -1,7 +1,7 @@
 <!-- Banner --> 
 
 <p align="center">  
-  <img alt="Building strong foundations"  src="./assets/banner.jpeg">
+  <img alt="Building strong foundations"  src="./assets/forgewithharsh.png">
   <br><br>
 <p/>
 
