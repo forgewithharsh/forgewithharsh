@@ -44,21 +44,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter"/>
   <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" width="48" height="48"/>
 </p>
-
-<details>
-<summary>&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" align="top"></summary>
-
-<br />
-<p align="center">
-  <img src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=forgewithharsh&theme=transparent&hide_border=true&stroke=0000&card_width=500px&text_color=efefef" alt="My GitHub Streak"/>
-</p>
-
-<br />
-<p align="center">
-  <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=forgewithharsh&theme=transparent"
-  alt="Harsh Guleria's Top Languages"
- />
-<p/>
-
-</details>
