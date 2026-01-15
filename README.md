@@ -40,7 +40,7 @@
 <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="22px" align="top"/> &nbsp; **Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,postman,obsidian&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,obsidian&theme=dark"&perline=7"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter"/>
   <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/dark/ollama.png" width="48" height="48" alt="Ollama"/>
