@@ -56,4 +56,12 @@
   <img src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=forgewithharsh&theme=transparent&hide_border=true&stroke=0000&card_width=500px&text_color=efefef" alt="My GitHub Streak"/>
 </p>
 
+<br/>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=forgewithharsh&theme=github_dark" 
+  />
+</p>
+
 </details>
