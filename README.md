@@ -51,9 +51,15 @@
 <details>
 <summary>&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" align="top"></summary>
 
-<br />
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=forgewithharsh&theme=transparent&hide_border=true&stroke=0000&card_width=500px&text_color=efefef" alt="My GitHub Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=forgewithharsh&theme=dark" 
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 <br/>
@@ -61,6 +67,7 @@
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=forgewithharsh&theme=github_dark" 
+    alt="Most Commit Language"
   />
 </p>
 
