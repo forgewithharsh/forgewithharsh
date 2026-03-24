@@ -51,15 +51,17 @@
 <details>
 <summary>&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" align="top"></summary>
 
-<br/>
-
+<br />
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=forgewithharsh&theme=dark" 
-      alt="GitHub Streak"
-    />
-  </a>
+  <img 
+  src="https://streak-stats.demolab.com?user=forgewithharsh&theme=transparent&hide_border=true" 
+  alt="Harsh Guleria GitHub Streak" 
+/>
 </p>
+
+<br />
+<p align="center">
+  <img alt="Harsh Guleria's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forgewithharsh&langs_count=10&count_private=true&layout=compact&hide_progress=true&theme=transparent&hide_border=true&hide=html&&text_color=efefef"/>
+<p/>
 
 </details>
