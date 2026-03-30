@@ -53,15 +53,7 @@
 
 <br />
 <p align="center">
-  <img 
-  src="https://streak-stats.demolab.com?user=forgewithharsh&theme=transparent&hide_border=true" 
-  alt="Harsh Guleria GitHub Streak" 
-/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=forgewithharsh&theme=dark" alt="GitHub Streak" />
 </p>
-
-<br />
-<p align="center">
-  <img alt="Harsh Guleria's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forgewithharsh&langs_count=10&count_private=true&layout=compact&hide_progress=true&theme=transparent&hide_border=true&hide=html&&text_color=efefef"/>
-<p/>
 
 </details>
