@@ -40,7 +40,7 @@
 <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="22px" align="top"/> &nbsp; **Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,postman,obsidian&theme=dark"&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=github,obsidian,postman,vscode,vercel&theme=dark"/>
 </p>
 
 <br/>
