@@ -50,7 +50,8 @@
 
 <br />
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=forgewithharsh&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=forgewithharsh&theme=transparent&hide_border=true&stroke=0000&card_width=500px&text_color=efefef" alt="Harsh's GitHub Streak"/>
 </p>
+
 
 </details>
