@@ -50,8 +50,7 @@
 
 <br />
 <p align="center">
-  <img src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=forgewithharsh&theme=transparent&hide_border=true&stroke=0000&card_width=500px&text_color=efefef" alt="Harsh's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=forgewithharsh&theme=transparent&hide_border=true&ring=FFA500&fire=FFD700&currStreakLabel=FFD700&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E" alt="Harsh's GitHub Streak"/>
 </p>
-
 
 </details>
