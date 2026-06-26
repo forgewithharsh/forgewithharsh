@@ -50,7 +50,17 @@
 
 <br />
 <p align="center">
-  <img src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=forgewithharsh&theme=transparent&hide_border=true&ring=FFA500&fire=FFD700&currStreakLabel=FFD700&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E" alt="Harsh's GitHub Streak"/>
+  <img
+    src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=forgewithharsh&theme=transparent&hide_border=true&ring=FFA500&fire=FFD700&currStreakLabel=FFD700&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E"
+    alt="Harsh's GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    alt="Harsh's Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=forgewithharsh&layout=compact&langs_count=10&hide_progress=true&theme=transparent&hide_border=true&title_color=FFD700&text_color=FFFFFF&icon_color=FFA500&bg_color=00000000"
+  />
 </p>
 
 </details>
