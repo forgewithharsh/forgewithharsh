@@ -49,11 +49,8 @@
 <summary>&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" align="top"></summary>
 
 <br />
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=forgewithharsh&theme=transparent&hide_border=true&ring=FFA500&fire=FFD700&currStreakLabel=FFA500&sideNums=FFA500&currStreakNum=FFA500&dates=CC8A00"
-    alt="Harsh's GitHub Streak"
-  />
-</p>
+## 🔥 Contributions:
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=forgewithharsh&&show_icons=true&theme=dark)](https://git.io/streak-stats)
 
 </details>
