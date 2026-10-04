@@ -9,7 +9,7 @@
 
 <div align= center>
 
-[![Twitter Badge](https://img.shields.io/badge/-@forgewithharsh-1ca0f1?style=social&labelColor=red&logo=x&logoColor=black&link=https://twitter.com/forgewithharsh)](https://x.com/forgewithharsh) &nbsp;&nbsp; [![LinkedIn Badge](https://img.shields.io/badge/@forgewithharsh-0e76a8)](https://www.linkedin.com/in/forgewithharsh/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-forgewithharsh@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:forgewithharsh@gmail.com) &nbsp;&nbsp; [![Peerlist Badge](https://img.shields.io/badge/@forgewithharsh-00C853?style=flat&logo=peerlist&logoColor=white)](https://peerlist.io/forgewithharsh)
+[![Twitter Badge](https://img.shields.io/badge/-@forgewithharsh-1ca0f1?style=social&labelColor=red&logo=x&logoColor=black&link=https://twitter.com/Harshdotcom)](https://x.com/Harshdotcom) &nbsp;&nbsp; [![LinkedIn Badge](https://img.shields.io/badge/@harshguleria-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshguleria/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-forgewithharsh@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:forgewithharsh@gmail.com) &nbsp;&nbsp; [![Peerlist Badge](https://img.shields.io/badge/@forgewithharsh-00C853?style=flat&logo=peerlist&logoColor=white)](https://peerlist.io/forgewithharsh)
 
 </div>
 
@@ -51,9 +51,13 @@
 <br />
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=forgewithharsh&theme=transparent&hide_border=true&stroke=0000&card_width=500&ring=ff8a00&fire=ff8a00&currStreakLabel=ff8a00&sideLabels=ff8a00&dates=ff8a00&currStreakNum=ff8a00&sideNums=ff8a00"
-  />
+  <img src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=harshguleria-dev&theme=transparent&hide_border=true&stroke=0000&card_width=500px&text_color=efefef"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshguleria-dev&langs_count=10&count_private=true&layout=compact&hide_progress=true&theme=transparent&hide_border=true&hide=html&text_color=efefef"/>
 </p>
 
 </details>
