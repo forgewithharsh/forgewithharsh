@@ -1,7 +1,7 @@
-<!-- Banner --> 
+<!-- Banner -->
 
-<p align="center">  
-  <img alt="Building strong foundations"  src="./assets/forgewithharsh.png">
+<p align="center">
+  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="./assets/forgewithharsh.png">
   <br><br>
 <p/>
 
@@ -57,7 +57,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshguleria-dev&langs_count=10&count_private=true&layout=compact&hide_progress=true&theme=transparent&hide_border=true&hide=html&text_color=efefef"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshguleria-dev&langs_count=10&count_private=true&layout=compact&hide_progress=true&theme=transparent&hide_border=true&hide=html&text_color=417e87"/>
 </p>
 
 </details>
