@@ -9,7 +9,7 @@
 
 <div align= center>
 
-[![Twitter Badge](https://img.shields.io/badge/-@forgewithharsh-1ca0f1?style=social&labelColor=red&logo=x&logoColor=black&link=https://twitter.com/Harshdotcom)](https://x.com/Harshdotcom) &nbsp;&nbsp; [![LinkedIn Badge](https://img.shields.io/badge/@harshguleria-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshguleria/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-forgewithharsh@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:forgewithharsh@gmail.com) &nbsp;&nbsp; [![Peerlist Badge](https://img.shields.io/badge/@forgewithharsh-00C853?style=flat&logo=peerlist&logoColor=white)](https://peerlist.io/forgewithharsh)
+[![Twitter Badge](https://img.shields.io/badge/-@forgewithharsh-1ca0f1?style=social&labelColor=red&logo=x&logoColor=black&link=https://twitter.com/forgewithharsh)](https://x.com/Harshdotcom) &nbsp;&nbsp; [![LinkedIn Badge](https://img.shields.io/badge/@forgewithharsh-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/forgewithharsh/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-forgewithharsh@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:forgewithharsh@gmail.com) &nbsp;&nbsp; [![Peerlist Badge](https://img.shields.io/badge/@forgewithharsh-00C853?style=flat&logo=peerlist&logoColor=white)](https://peerlist.io/forgewithharsh)
 
 </div>
 
